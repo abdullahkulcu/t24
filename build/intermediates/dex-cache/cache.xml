@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Yavuz\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\pre-dexed\debug\gson-2.3.1-c8dfcffe864666411bd17ef428bbfd05a88523f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-b21b43ec8ea77129714a5f4284a5fb3575ac00b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yavuz\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-28fd5e509873a62c9949984cc1efa4726a9105d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\exploded-aar\ch.acra\acra\4.7.0-RC.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffc853b70bcb49bc89206a93b8867014b5ea2268">
+        <dex dex="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\pre-dexed\debug\classes-ff9e533a1e4c984a19626dbb85b083d073ddad65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\pre-dexed\debug\classes-1abdf8a8c4cdbc3562e31818d5c91f4e329c565f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\pre-dexed\debug\classes-15ecfa8874e1b399b15141ba7886512676fc5c58.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yavuz\Documents\androidsdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-5dabbd5a2a31f3ad4aa5dee5df30b3a90072429f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\pre-dexed\debug\classes-6910e13dc4824884d9515bebb6ff3d7dc016cc6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\pre-dexed\debug\classes-4ac9270297552b06719d76e0fab68144333c99c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\pre-dexed\debug\classes-148a09162d38e5dace032e9a6d2ec11142a6e44e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yavuz\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-d1cb92fe10fd61f635c3cee994cea8bc4aa81ff3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yavuz\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\Yavuz\Documents\T24haber\app\build\intermediates\pre-dexed\debug\okio-1.4.0-77738cd4e9f23d9339dce9b25d0402caeecc75f8.jar" />
+    </item>
+
+</items>
