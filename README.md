@@ -1,3 +1,7 @@
+
+LÜTFEN ADMOB EKLEYİP GOOGLE PLAYDE YAYINLAMAYIN, HAKSIZ KAZANÇ ELDE ETMİŞ OLACAKSINIZ, GOOGLE PLAYDE BU PROJEYİ GÖRDÜKTEN SONRA YAZMA GEREĞİ DUYDUM.
+----------------------------
+
 # t24
 T24 haber sitesi apisi ile geliştirilmiş bir uygulama, 
 - ** kendimi geliştirmek için yaptım **
